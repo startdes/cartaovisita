@@ -335,3 +335,14 @@ header.masthead p {
     padding-top: 4px;
     padding-bottom: 2px;
 }
+.promocao{
+    font-size: 2.0rem;
+    color: #e8d811;
+    text-transform: uppercase;    
+}
+.primeiros{
+    font-size: 2.1rem;
+    color: #e83a11;
+    text-transform: uppercase;
+    font-weight: bold;
+}
