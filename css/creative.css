@@ -346,3 +346,9 @@ header.masthead p {
     text-transform: uppercase;
     font-weight: bold;
 }
+.valor{
+        font-size: 2.1rem;
+    color: #e83a11;
+    text-transform: uppercase;
+    font-weight: bold;
+}
