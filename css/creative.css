@@ -352,3 +352,6 @@ header.masthead p {
     text-transform: uppercase;
     font-weight: bold;
 }
+.logo{
+    width: 50px;
+}
