@@ -324,13 +324,14 @@ header.masthead p {
 }
 
 .ajustep {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
+    color: aliceblue;
 }
 
 .ajustediv2 {
     top: 50px;
     font-weight: 500;    
-    background-color: #F05F40;
+    background-color: #612190;
     color: #fff;
     padding-top: 4px;
     padding-bottom: 2px;
